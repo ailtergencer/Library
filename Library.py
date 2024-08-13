@@ -124,11 +124,3 @@ while True:
         for i in bookList:
             print(i)
         break
-    
-
-
-    # Ayni kitabi baska biri almaya calistigi zaman uyarı ver.
-    # Kitabi alan kisiye zaman bilgileri verilsin ne zaman aldigi ne zaman geri verecegi maksimum 20 gun alabilsin kitabi. 
-    # Kullanici max 3 kitap alabilsin. 
-    # Kullanici girdigi zaman eger zamani gecmis kitap varsa soylesin ne zaman geri vermesi gerekirdi ne kadar gec kaldı gibi ve uyarı alsın.
-    # Kullanicinin elindeki kitaplarin zaman kavramı bilgileri olsun mesela kac gün kaldi son gunune gibi.
