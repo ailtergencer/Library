@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 import mysql.connector
-from Kullanicilar import bookList, dolaplar
+from sorgu_sistemi import bookList, dolaplar
 
 # Veritabanı bağlantı bilgileri
 db_config = {
